@@ -1,0 +1,1 @@
+Git hub web hook lets git hub to inform to jenkins whenever new build happens so that jenkins automatically starts new build
