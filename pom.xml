@@ -30,12 +30,12 @@
      <repository>
               <id> deployment </id>
               <name>Internal-release</name>
-              <url>http://ec2-13-127-157-100.ap-south-1.compute.amazonaws.com:8081/nexus/content/repositories/devops/</ur>
+              <url>http://ec2-13-127-157-100.ap-south-1.compute.amazonaws.com:8081/nexus/content/repositories/devops/</url>
      </repository> 
      <snapshotRepository>
               <id> deployment </id>
               <name>Internal-release</name>
-              <url>http://ec2-13-127-157-100.ap-south-1.compute.amazonaws.com:8081/nexus/content/repositories/devops-snapshot/</ur>
+              <url>http://ec2-13-127-157-100.ap-south-1.compute.amazonaws.com:8081/nexus/content/repositories/devops-snapshot/</url>
      </snapshotRepository> 
   </distributionManagement>
 
